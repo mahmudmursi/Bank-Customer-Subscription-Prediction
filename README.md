@@ -286,4 +286,5 @@ Bank-Marketing-Neural-Network/
 **Mahmoud Morsy**
 
 AI Engineer | Data Science | Machine Learning
+
 Built with Neural Networks & PyTorch for bank subscription prediction.
